@@ -237,13 +237,13 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 
 [**🔼 Back to Top**](#priv)
 
-## ExtHang3r
-𝗘𝘅𝘁𝗛𝗮𝗻𝗴𝟯𝗿 is an exploit that allows ChromeOS users to 𝗸𝗶𝗹𝗹 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀 after the LTMEAT patch. It remains unpatched in all new ChromeOS versions as of November 2024.
+## Extprint3r
+𝗘𝘅tprint𝟯𝗿 is an exploit that allows ChromeOS users to 𝗸𝗶𝗹𝗹 𝗺𝗮𝗻𝗮𝗴𝗲𝗱 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀 after the LTMEAT patch. It remains unpatched in all new ChromeOS versions as of November 2024.
 
 Created by [Blobby](https://github.com/Blobby-Boi)
 
 ### How do I use it?
-Download the <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r.html">HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r">copy the data: link and paste it into a new tab</a>
+paste: into the searchbar and press enter.
 
 ### Note
 When you start hanging it will take longer than one minute and it will lag a ton since it is refreshing iframes, so I recommend closing all your other tabs before hanging. If you are using securly please use ``securly (old)`` to disable Securly for Chromebooks.
