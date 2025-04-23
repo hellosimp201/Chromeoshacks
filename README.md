@@ -1,4 +1,4 @@
-# Chromeoshacks Made by agguiopz
+# IXL Tasks Made by agguiopz
 This is a repository filled with school proxy/game websites and chromeOS hacks to bypass school web filtering.
 
 <br/>
@@ -169,7 +169,7 @@ Discovered by [ash (ash._ash)](https://discord.com/users/1046443045924634655)
 3. Click **OpenVPN** and select **l2tp/ipsec** from the drop-down list
 4. Go [here](https://m.ipspeed.info/freevpn_l2tpipsec.php?language=en) and scroll down and copy any IP address / host name
 5. Put the IP address / host name into the hostname text box
-6. Put anything as the VPN namep
+6. Put anything as the VPN name
 7. In **password**, **preshared key** and **username** enter **vpn** (group name is optional)
 8. Connect to the newly configured VPN
 
@@ -243,8 +243,7 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 Created by [Blobby](https://github.com/Blobby-Boi)
 
 ### How do I use it?
-paste: into the searchbar and press enter.
-
+Paste [This code](https://github.com/hellosimp201/Chromeoshacks/blob/main/Extprint3r) into the lxs
 ### Note
 When you start hanging it will take longer than one minute and it will lag a ton since it is refreshing iframes, so I recommend closing all your other tabs before hanging. If you are using securly please use ``securly (old)`` to disable Securly for Chromebooks.
 
