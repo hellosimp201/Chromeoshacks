@@ -27,7 +27,7 @@ https://agguiopz.github.io/Priv/
   * [Guest Mode **(Unrestricted Browsing)**](#guest-mode)
   * [SimplyVPN **(Unblock Network Blocked Sites)**](#simplyvpn)
   * [Corkey **(Corrupt Extensions)**](#corkey)
-  * [ExtHang3r **(Freeze Extensions)**](#exthang3r)
+  * [Extprint3r **(Freeze Extensions)**](#exthang3r)
   * [RigTools **(Disable Extensions**](#rigtools)
   * [Dextensify **(Freeze Extensions)**](#dextensify)
   * [LTMEAT **(Freeze Extensions)**](#ltmeat)
