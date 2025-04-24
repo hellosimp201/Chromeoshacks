@@ -243,7 +243,7 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 Created by [Blobby](https://github.com/Blobby-Boi)
 
 ### How do I use it?
-Paste [This code](https://github.com/hellosimp201/Chromeoshacks/blob/main/Extprint3r) into the lxs
+Paste [This code](https://github.com/hellosimp201/Chromeoshacks/blob/main/Extprint3r) into the link bar
 ### Note
 When you start hanging it will take longer than one minute and it will lag a ton since it is refreshing iframes, so I recommend closing all your other tabs before hanging. If you are using securly please use ``securly (old)`` to disable Securly for Chromebooks.
 
